@@ -1,0 +1,1 @@
+Create table identitiesdata(IDENTITY_UID smallint generated always as IDENTITY(start with 100,increment by 1) primary key,IDENTITY_DISPLAYNAME varchar(10),IDENTITY_EMAIL varchar(20)
